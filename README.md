@@ -1,1 +1,1 @@
-# react-js
+# ethan-portfolio-starter
